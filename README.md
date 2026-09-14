@@ -1,5 +1,3 @@
-# NVIDIA-Settings-Helper
-A Batch file that helps you to get the right settings for your Nvidia Card
 # NVIDIA Settings Helper
 
 A simple Windows batch tool that provides guided NVIDIA and Windows settings recommendations for supported NVIDIA GPUs.
